@@ -1,0 +1,13 @@
+{ "name": "humanize-time"
+, "version": "1.0.0"
+, "author": "Johan Sundström <oyasumi@gmail.com>"
+, "description": "HumanizeTime converts second counts to time durations for human consumption"
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/johan/humanize-time"
+  }
+, "main": "index.js"
+, "engines":
+  { "node": ">=0.8"
+  }
+}
